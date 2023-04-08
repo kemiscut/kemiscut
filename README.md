@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [github/kemiscut](github/kemiscut)
 
-- 📝 I regularly write articles on [Report and Dashboard Techniques](Report and Dashboard Techniques)
+- 📝 I regularly write articles on [Data Wrangling Munging](Data Wrangling and Munging)
 
 - 💬 Ask me about **Data Analytics**
 
