@@ -1,29 +1,29 @@
 <h1 align="center">Hi 👋, I'm Aishat Alli</h1>
-<h3 align="center">An ethical data analyst and also a civil engineer</h3>
+<h3 align="center">An information security specialist</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
 <p align="left"> <a href="https://twitter.com/kemi_alli" target="blank"><img src="https://img.shields.io/twitter/follow/kemi_alli?logo=twitter&style=for-the-badge" alt="kemi_alli" /></a> </p>
 
-- 🔭 I’m currently working on **A/B Testing**
+- 🔭 I’m currently working on **ISMS Implementation**
 
-- 🌱 I’m currently learning **Alteryx**
+- 🌱 I’m currently learning **Terraform**
 
-- 👯 I’m looking to collaborate on **Microsoft Power Platform**
+- 👯 I’m looking to collaborate on **LinkedIn**
 
 - 🤝 I’m looking for help with **Job Opportunities**
 
 - 👨‍💻 All of my projects are available at [github/kemiscut](github/kemiscut)
 
-- 📝 I regularly write articles on [Data Wrangling Munging](Data Wrangling and Munging)
+- 📝 I regularly write articles on [Microsoft Purview](Microsoft Purview)
 
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **Cybersecurity**
 
 - 📫 How to reach me **kemiscut@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/3Uj2DOf](https://bit.ly/3Uj2DOf)
 
-- ⚡ Fun fact **I love watching Arab and korean movies**
+- ⚡ Fun fact **I love watching korean movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
